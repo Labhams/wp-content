@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 <?php
 <<<<<<< HEAD
 
@@ -21,3 +22,6 @@
 
 get_header(); ?>
 >>>>>>> c05ba7d5421a590521fdca682e92ab8e37a10668
+=======
+<?php get_header(); ?>
+>>>>>>> f1665dca3e0a8dce6e901522490c869ca654b1c5
